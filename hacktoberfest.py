@@ -49,7 +49,7 @@ def contributors():
     me("Abhinab", "Python is easy and good")
     me("Danu", "Bagi uangnya om")
     me("Sarthak", "Just wanna enjoy my Opensource Life :)")
-
+    me("Divyam", "Please Accept my pull request!")
 
 print(" ")
 print("Happy Hacktoberfest 2021!\nHere is our contributors from worldwide:")
